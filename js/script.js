@@ -1,43 +1,88 @@
 
+LOCOMOTIVA
 const container=document.querySelector(".app");
 
 const myApp=[
-
               { 
-               type:" I ",
+               type:" PALAVRAS ",
                msg:" ",
-               path:"images/letraF",
+               path:"images/letraL",
                structure:[
-                              {question:"A",options:['A.jpg','A.jpg','A.jpg','A.jpg'],key:3},
+                           {question:"LAMPADA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
 
-                              {question:"E",options:['E.jpg','E.jpg','E.jpg','E.jpg'],key:2},
+                           {question:"LATERNA",options:['L.jpg','L.jpg','L.jpg' ,'L.jpg'],key:0},
 
-                              {question:"I",options:['I.jpg','I.jpg','I.jpg','I.jpg'],key:1},
-  
-                              {question:"O",options:['O.jpg','O.jpg','O.jpg','O.jpg'],key:0},
+                           {question:"LAREIRA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
 
-                              {question:"U",options:['U.jpg','U.jpg','U.jpg','U.jpg'],key:3}                                                                           
+                           {question:"LARANJA",options:['L.jpg' ,'L.jpg','L.jpg','L.jpg'],key:1},
+                           
+                           {question:"LAGOSTA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
 
-                   ]
-              },
+                           {question:"LAGO",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
+                           
+                           {question:"LASANHA",options:['L.jpg','L.jpg','L.jpg', 'L.jpg',],key:1},
 
-              {
+                           {question:"LÁPIS",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
 
-               type:" P ",
-               msg:" ",
-               path:"images/letraF",
-               structure:[
-                              {question:"A",options:['A.jpg','A.jpg','A.jpg','A.jpg'],key:3},
+                           {question:"LAMA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
 
-                              {question:"E",options:['E.jpg','E.jpg','E.jpg','E.jpg'],key:2},
+                           {question:"LAGARTIXA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
 
-                              {question:"I",options:['I.jpg','I.jpg','I.jpg','I.jpg'],key:1},
-  
-                              {question:"O",options:['O.jpg','O.jpg','O.jpg','O.jpg'],key:0},
 
-                              {question:"U",options:['U.jpg','U.jpg','U.jpg','U.jpg'],key:3} 
-                          
- 
+                           {question:"LEÃO",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:1},
+
+                              {question:"LEITE",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
+
+                              {question:"LEOPARDO",options:['L.jpg','L.jpg','L.jpg' ,'L.jpg',],key:1},
+
+                              {question:"LEQUE ",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
+
+                              {question:"LEOA",options:['L.jpg','L.jpg','L.jpg','L.jpg',],key:2},
+
+                              {question:"LENHA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
+
+                              {question:"LEITÃO",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
+
+                              {question:"LESMA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:1},
+
+                              {question:"LUNETA",  options:['L.jpg','L.jpg','L.jpg', 'L.jpg'],key:1},                     
+
+                              {question:"LIXEIRA",options:['L.jpg','L.jpg','L.jpg', 'L.jpg'],key:1},
+
+                             {question:"LIMONADA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
+
+                             {question:"LIQUIDIFICADOR",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
+
+                             {question:"LIVRARIA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:1},
+                             
+                             {question:"LINGUA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
+
+                              {question:"LOUSA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
+
+                                {question:"LOBO",options: ['L.jpg', 'L.jpg','L.jpg','L.jpg'],key:0},
+
+                                {question:"LONTRA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
+
+                                {question:"LOUÇA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
+
+                                {question:"LOJA",options:['L.jpg','L.jpg','L.jpg' ,'L.jpg'],key:1},
+
+                                {question:"LOBISOMEM",options:['L .jpg','L.jpg','L.jpg', 'L.jpg'],key:0},
+
+                                {question:"LUA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
+
+                              {question:"LUNETA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:1},
+
+                              {question:"LUTA",options:['L.jpg','L.jpg','L.jpg','L.jpg' ],key:3},
+
+                              {question:"LUVA",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:2},
+
+                              {question:"LULA",options:['L.jpg' ,'L.jpg','L.jpg', 'L.jpg'],key:3},
+
+                              {question:"LOCOMOTIVA",options:['LOCOMOTIVA.jpg','L.jpg','L.jpg','L.jpg'],key:0},
+
+                              {question:"LUSTRE",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0}
+
                               
 
                         ]
