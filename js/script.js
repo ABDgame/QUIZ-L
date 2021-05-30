@@ -90,6 +90,8 @@ const myApp=[
 
 
                            {question:"LUVA",options:['L.jpg','L.jpg','LUVA.jpg','L.jpg'],key:2},
+                           
+                           {question:"LAVANDERIA",options:['LAVANDERIA.jpg' ,'L.jpg','L.jpg', 'L.jpg'],key:0},
 
                            {question:"LULA",options:['L.jpg' ,'L.jpg','L.jpg', 'LULA.jpg'],key:3},
 
