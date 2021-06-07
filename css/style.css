@@ -25,17 +25,19 @@ body{
    /*display: flex;  INSERIDO 26/04/2021*/
    /*justify-content: space-between;  INSERIDO 26/04/2021*/
    /*flex-wrap: wrap;  INSERIDO 26/04/2021 */
-   margin: 60px auto;
-   backdrop-filter:blur(4px); /*MODIFICADO 30-04-2021*/
+   margin: 0 auto;
+   backdrop-filter:blur(6px); /*MODIFICADO 30-04-2021*/
    background: rgba(180,123,58,0.1);
    background: linear-gradient(10deg, rgba(180,123,58,0) 0%, rgba(155,85,16,0) 1%, rgba(219,132,10,0) 10%);
    /*background: rgba(255, 255, 255, 0.2);/*MODIFICADO 30-04-2021*/
    padding: 10px 50px 50px 50px;
-   border-radius: 20px;
-   border: 1px solid rgba(255,255,255,0.5);
-   border-top: 1px solid rgba(255,255,255,0.5);
-   border-left: 1px solid rgba(255,255,255,0.5);
-   box-shadow: 0 15px 25px rgba(0,0,0,0.05);
+   border-radius: 50px;
+   /*border: 2px solid rgba(75,241,250,1); 29-05-2021*/
+   border-top: 2px solid rgba(75,241,250,1);
+   border-left: 2px solid rgba(75,241,250,1);
+   border: 2px solid #4BF1FA;
+   box-shadow: 5px 10px 1px #4BF1FA;   
+   /*box-shadow: 0 15px 25px rgba(75,241,250,1); 29-05-2021*/
    
 }
 
@@ -137,6 +139,7 @@ body{
 }
 /*BOTÕES DAS IMAGENS*/
 .app .option-box button{
+     background: rgba(255, 255, 255, 0); /*ADD 07/06/2021*/
      position: relative; /*ADICIONADO 27/04/2021*/
      top: 10px;/*ADICIONADO 27/04/2021*/
      left: 10px;/*ADICIONADO 27/04/2021*/
@@ -147,10 +150,11 @@ body{
      display: flex; /*ADICIONADO 27/04/2021*/
      justify-content: center; /*ADICIONADO 27/04/2021*/
      align-items: center; /*ADICIONADO 27/04/2021*/
+     color: #FCF068;
      margin:10px;
      border:0;
      padding:0;
-     border-radius:4px;
+     border-radius:10px;
      overflow: hidden;
      cursor: pointer;
      animation: button 1s ease;  
@@ -298,6 +302,7 @@ body{
        transform: scale(1);opacity: 1
   }
 }
+
 
 
  
