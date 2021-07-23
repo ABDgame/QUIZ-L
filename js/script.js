@@ -3,7 +3,104 @@
 const container=document.querySelector(".app");
 
 const myApp=[
-              { 
+{ 
+               type:" INICIAIS ",
+               msg:" ",
+               path:"images/letraL",
+               structure:[
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg' ,' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+ 
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                     
+                           {question:" ",options:[' .jpg' ,' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg' ,' .jpg',' .jpg',' .jpg'],key:0},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
+                            
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},   
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+                           
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg', ' .jpg',],key:0},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},                           
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg' ,' .jpg'],key:2},
+ 
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg', ' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+                              
+                           {question:" ",options: [' .jpg', ' .jpg',' .jpg',' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                               
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg' ,' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+                             
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+                           
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                             
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+                             
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                              
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+
+                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3}
+
+
+                          ]
+              },
+     
+        { 
                type:" PALAVRAS ",
                msg:" ",
                path:"images/letraL",
