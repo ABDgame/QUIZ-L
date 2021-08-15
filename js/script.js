@@ -1,101 +1,18 @@
-
-
-const container=document.querySelector(".app");
-
-const myApp=[
+const myApp=[  
               { 
                type:" INICIAIS ",
                msg:" ",
                path:"images/letraL",
                structure:[
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
+                           {question:"L",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
 
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg' ,' .jpg'],key:1},
+                           {question:"L",options:['L.jpg','L.jpg','L.jpg' ,'L.jpg'],key:2},
 
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
+                           {question:"L",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:0},
  
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
+                           {question:"L",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:1},
                      
-                           {question:" ",options:[' .jpg' ,' .jpg',' .jpg',' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg' ,' .jpg',' .jpg',' .jpg'],key:0},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
-                            
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},   
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-                           
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg', ' .jpg',],key:0},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},                           
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg' ,' .jpg'],key:2},
- 
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg', ' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-                              
-                           {question:" ",options: [' .jpg', ' .jpg',' .jpg',' .jpg'],key:1},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-                               
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg' ,' .jpg'],key:1},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-                             
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-                           
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-                             
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-                             
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:1},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:2},
-                              
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:0},
-
-                           {question:" ",options:[' .jpg',' .jpg',' .jpg',' .jpg'],key:3}
-
+                           {question:"L",options:['L.jpg' ,'L.jpg','L.jpg','L.jpg'],key:0}
 
                           ]
               },
