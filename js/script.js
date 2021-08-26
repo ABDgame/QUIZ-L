@@ -1,3 +1,4 @@
+const container=document.querySelector(".app");
 const myApp=[  
               { 
                type:" INICIAIS ",
