@@ -1,5 +1,6 @@
 const container=document.querySelector(".app");
-const myApp=[  
+
+const myApp=[
               { 
                type:" INICIAIS ",
                msg:" ",
