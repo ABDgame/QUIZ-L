@@ -4,7 +4,7 @@ const myApp=[
               { 
                type:" INICIAIS ",
                msg:" ",
-               path:"images/letraL",
+               path:"imagens/letraL",
                structure:[
                            {question:"L",options:['L.jpg','L.jpg','L.jpg','L.jpg'],key:3},
 
@@ -22,7 +22,7 @@ const myApp=[
         { 
                type:" PALAVRAS ",
                msg:" ",
-               path:"images/letraL",
+               path:"imagens/letraL",
                structure:[
                            {question:"LOCOMOTIVA",options:['L.jpg','LOCOMOTIVA.jpg','L.jpg','L.jpg'],key:1},
                           
