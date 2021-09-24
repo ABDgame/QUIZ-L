@@ -24,18 +24,18 @@ const myApp=[
                msg:" ",
                path:"imagens/letraL",
                structure:[
-                           {question:"LOCOMOTIVA",options:['L.jpg','LOCOMOTIVA.jpg','L.jpg','L.jpg'],key:1},
+                           {question:"LOCOMOTIVA",options:['LARANJA.jpg','LOCOMOTIVA.jpg','LEAO.jpg','LAMPADA.jpg'],key:1},
                           
-                           {question:"LANCHE",options:['LANCHE.jpg','L.jpg','L.jpg','L.jpg'],key:0},
+                           {question:"LANCHE",options:['LANCHE.jpg','LIVRO.jpg','LANTERNA.jpg','LAREIRA.jpg'],key:0},
                      
-                           {question:"LEÃO",options:['L.jpg','L.jpg','LEAO.jpg','L.jpg'],key:2},
+                           {question:"LEÃO",options:['LIMAO.jpg','LEITE.jpg','LEAO.jpg','LAPIS.jpg'],key:2},
                            
-                           {question:"LAMPADA",options:['L.jpg','L.jpg','L.jpg','LAMPADA.jpg'],key:3},
+                           {question:"LAMPADA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LAGOA.jpg','LAMPADA.jpg'],key:3},
 
 
-                           {question:"LANTERNA",options:['L.jpg','L.jpg','L.jpg' ,'LANTERNA.jpg'],key:3},
+                           {question:"LANTERNA",options:['LAGARTIXA.jpg','LIMPEZA.jpg','LOUSA.jpg' ,'LANTERNA.jpg'],key:3},
 
-                           {question:"LAREIRA",options:['L.jpg','L.jpg','LAREIRA.jpg','L.jpg'],key:2},
+                           {question:"LAREIRA",options:['LEQUE.jpg','LESMA.jpg','LAREIRA.jpg','LEITE.jpg'],key:2},
 
                            {question:"LARANJA",options:['L.jpg' ,'LARANJA.jpg','L.jpg','L.jpg'],key:1},
                            
