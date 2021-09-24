@@ -37,7 +37,7 @@ const myApp=[
 
                            {question:"LAREIRA",options:['LEQUE.jpg','LESMA.jpg','LAREIRA.jpg','LEITE.jpg'],key:2},
 
-                           {question:"LARANJA",options:['L.jpg' ,'LARANJA.jpg','L.jpg','L.jpg'],key:1},
+                           {question:"LARANJA",options:['LANCHE.jpg' ,'LARANJA.jpg','LIXO.jpg','LUSTRE.jpg'],key:1},
                            
                            {question:"LAGOSTA",options:['LAGOSTA.jpg','L.jpg','L.jpg','L.jpg'],key:0},
 
