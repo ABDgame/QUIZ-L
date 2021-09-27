@@ -51,7 +51,7 @@ const myApp=[
                            {question:"LIMPEZA",options:['LAGARTA.jpg','LARAJA.jpg','LIMPEZA.jpg','LOUSA.jpg'],key:2},
 
 
-                           {question:"LAGARTIXA",options:['LEAO.jpg','LAGARTIXA.jpg','LIVRO.jpg','LEITURA.jpg'],key:1},
+                           {question:"LAGARTA",options:['LEAO.jpg','LAGARTA.jpg','LIVRO.jpg','LEITURA.jpg'],key:1},
 
                            {question:"LEITE",options:['LEGO.jpg','LEOPARDO.jpg','LEITE.jpg','LIXO.jpg'],key:2},
 
@@ -102,7 +102,7 @@ const myApp=[
 
                            {question:"LUNETA",options:['LUNETA.jpg','L.jpg','L.jpg','L.jpg'],key:0},
 
-                           {question:"LUTA",options:['L.jpg','LUTA.jpg','L.jpg','L.jpg' ],key:1},
+                           {question:"LUTADOR",options:['L.jpg','LUTADOR.jpg','L.jpg','L.jpg' ],key:1},
 
 
                            {question:"LUVA",options:['L.jpg','L.jpg','LUVA.jpg','L.jpg'],key:2},
