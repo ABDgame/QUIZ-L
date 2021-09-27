@@ -42,7 +42,7 @@ const myApp=[
                            {question:"LAGOSTA",options:['LAGOSTA.jpg','LUTADOR.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
 
 
-                           {question:"LAGO",options:['LEITE.jpg','LABIRINT.jpg','LAPIS.jpg','LAGOA.jpg'],key:3},
+                           {question:"LAGO",options:['LEITE.jpg','LABIRINTO.jpg','LAPIS.jpg','LAGOA.jpg'],key:3},
                            
                            {question:"LASANHA",options:['LOUSA.jpg','LASANHA.jpg','LOBO.jpg', 'LIMAO.jpg',],key:1},
 
@@ -57,10 +57,10 @@ const myApp=[
 
                            {question:"LEOPARDO",options:['LABIOS.jpg','LEGUMES.jpg','LEQUE.jpg' ,'LEOPARDO.jpg',],key:3},
 
-                           {question:"LEQUE ",options:['LEQUE.jpg','LOCOMOTIVA.jpg','LIVRO.jpg','LEAO.jpg'],key:0},
+                           {question:"LEBRE ",options:['LEBRE.jpg','LOCOMOTIVA.jpg','LIVRO.jpg','LEAO.jpg'],key:0},
 
 
-                           {question:"LEOA",options:['LUA.jpg','LARANJA.jpg','LEOA.jpg','LAVAR.jpg',],key:2},
+                           {question:"LABIOS",options:['LUA.jpg','LARANJA.jpg','LEOA.jpg','LAVAR.jpg',],key:2},
 
                            {question:"LENHA",options:['LENHA.jpg','LEITE.jpg','LENHA.jpg','LEAO.jpg'],key:0},
 
@@ -78,7 +78,7 @@ const myApp=[
                            {question:"LIQUIDIFICADOR",options:['L.jpg','L.jpg','L.jpg','LIQUIDIFICADOR.jpg'],key:3},
 
 
-                           {question:"LIVRARIA",options:['L.jpg','LIVRARIA.jpg','L.jpg','L.jpg'],key:1},
+                           {question:"LIBELULA",options:['L.jpg','LIBELULA.jpg','L.jpg','L.jpg'],key:1},
                              
                            {question:"LINGUA",options:['L.jpg','L.jpg','LINGUA.jpg','L.jpg'],key:2},
 
