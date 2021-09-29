@@ -1,3 +1,3 @@
 # QUIZ-SILABARIO-L
 
-https://trechosdecodigos.github.io/QUIZ-L/app.html
+https://tenhojogos.github.io/QUIZ-L/app.html
