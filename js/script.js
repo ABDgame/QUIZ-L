@@ -317,9 +317,3 @@ const myApp=[
       function load(ele) {
         const app1=new App(myApp[ele.value],container)
       }
-
-     
-
-   
-   
- 
