@@ -39,7 +39,7 @@ body{
    /*border: 2px solid rgba(75,241,250,1); 29-05-2021*/
    border-top: 2px solid rgba(75,241,250,1);
    border-left: 2px solid rgba(75,241,250,1);
-   border: 2px solid #4BF1FA;
+   border: 2px solid #4BF1FA;7
    box-shadow: 5px 10px 1px #4BF1FA;   
    /*box-shadow: 0 15px 25px rgba(75,241,250,1); 29-05-2021*/
    
@@ -226,7 +226,7 @@ body{
 
 }
 .app .option-box button.errada img:hover{
-    transform: scale(1.5);
+    transform: rotate(-10deg) scale(1.5);/* 30-10-2021 */
     cursor: zoom-in;
     
 }
@@ -275,7 +275,7 @@ body{
 }
 
 .app .option-box button.correta img:hover{
-    transform: scale(1.5);
+    transform: rotate(-10deg) scale(1.5);/* 30-10-2021 */
     cursor: zoom-in;
     
 }
