@@ -30,6 +30,7 @@ const myApp=[
                  
                            {question:"KI",options:['KINDER.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
                  
+                           {question:"KO",options:['LANCHE.jpg','LIVRO.jpg','KOALA.jpg','LUVA.jpg'],key:2},
                            
                            {question:"LA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LOUSA.jpg','LAMPADA.jpg'],key:3},
 
