@@ -11,6 +11,25 @@ const myApp=[
                            {question:"LA",options:['LANCHE.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
                      
                            {question:"LE",options:['LIMAO.jpg','LATA.jpg','LEAO.jpg','LAPIS.jpg'],key:2},
+                 
+                 
+                           
+                           {question:"KA",options:['KARATE.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                 
+                           {question:"KI",options:['LANCHE.jpg','KIMONO.jpg','LANTERNA.jpg','LUVA.jpg'],key:1},
+                           
+                           {question:"KO",options:['LANCHE.jpg','LIVRO.jpg','LANTERNA.jpg','KOMBI.jpg'],key:3},
+                           
+                           {question:"KI",options:['KIWI.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                           
+                           {question:"KU",options:['LANCHE.jpg','LIVRO.jpg','KUNGFU.jpg','LUVA.jpg'],key:2},
+                 
+                           {question:"KI",options:['LANCHE.jpg','KINGKONG.jpg','LANTERNA.jpg','LUVA.jpg'],key:1},
+                 
+                           {question:"KA",options:['LANCHE.jpg','LIVRO.jpg','LANTERNA.jpg','KARAOKE.jpg'],key:3},
+                 
+                           {question:"KI",options:['KINDER.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                 
                            
                            {question:"LA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LOUSA.jpg','LAMPADA.jpg'],key:3},
 
