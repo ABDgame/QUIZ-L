@@ -156,7 +156,28 @@ const myApp=[
 
                            {question:"LIMPEZA",options:['LAGARTA.jpg','LARAJA.jpg','LIMPEZA.jpg','LOUSA.jpg'],key:2},
 
-
+                           {question:"KARATE",options:['KARATE.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                 
+                           {question:"KIMONO",options:['LANCHE.jpg','KIMONO.jpg','LANTERNA.jpg','LUVA.jpg'],key:1},
+                           
+                           {question:"KOMBI",options:['LANCHE.jpg','LIVRO.jpg','LANTERNA.jpg','KOMBI.jpg'],key:3},
+                           
+                           {question:"KIWI",options:['KIWI.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                           
+                           {question:"KUNG-FU",options:['LANCHE.jpg','LIVRO.jpg','KUNGFU.jpg','LUVA.jpg'],key:2},
+                 
+                           {question:"KING - KONG",options:['LANCHE.jpg','KINGKONG.jpg','LANTERNA.jpg','LUVA.jpg'],key:1},
+                 
+                           {question:"KARAOKE",options:['LANCHE.jpg','LIVRO.jpg','LANTERNA.jpg','KARAOKE.jpg'],key:3},
+                 
+                           {question:"KINDER",options:['KINDER.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                 
+                           {question:"KOALA",options:['LANCHE.jpg','LIVRO.jpg','KOALA.jpg','LUVA.jpg'],key:2},
+                 
+                           {question:"KETCHUP",options:['KETCHUP.jpg','LIVRO.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
+                 
+                 
+                  
                            {question:"LAGARTIXA",options:['LEAO.jpg','LAGARTIXA.jpg','LIVRO.jpg','LEITURA.jpg'],key:1},
 
                            {question:"LEITE",options:['LEGO.jpg','LEOPARDO.jpg','LEITE.jpg','LIXO.jpg'],key:2},
