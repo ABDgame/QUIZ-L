@@ -136,7 +136,7 @@ const myApp=[
                      
                            {question:"LEÃO",options:['LIMAO.jpg','LEITE.jpg','LEAO.jpg','LAPIS.jpg'],key:2},
                            
-                           {question:"LAMPADA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LAGOA.jpg','LAMPADA.jpg'],key:3},
+                           {question:"LAMPADA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LAGO.jpg','LAMPADA.jpg'],key:3},
 
 
                            {question:"LANTERNA",options:['LAGARTIXA.jpg','LIMPEZA.jpg','LOUSA.jpg' ,'LANTERNA.jpg'],key:3},
@@ -148,7 +148,7 @@ const myApp=[
                            {question:"LAGOSTA",options:['LAGOSTA.jpg','LUTADOR.jpg','LANTERNA.jpg','LUVA.jpg'],key:0},
 
 
-                           {question:"LAGO",options:['LEITE.jpg','LABIRINT.jpg','LAPIS.jpg','LAGOA.jpg'],key:3},
+                           {question:"LAGO",options:['LEITE.jpg','LABIRINTO.jpg','LAPIS.jpg','LAGO.jpg'],key:3},
                            
                            {question:"LASANHA",options:['LOUSA.jpg','LASANHA.jpg','LOBO.jpg', 'LIMAO.jpg',],key:1},
 
@@ -182,7 +182,7 @@ const myApp=[
 
                            {question:"LEITE",options:['LEGO.jpg','LEOPARDO.jpg','LEITE.jpg','LIXO.jpg'],key:2},
 
-                           {question:"LEOPARDO",options:['LABIOS.jpg','LEGUMES.jpg','LEQUE.jpg' ,'LEOPARDO.jpg',],key:3},
+                           {question:"LEOPARDO",options:['LABIOS.jpg','LEGUMES.jpg','LEQUE.jpg','LEOPARDO.jpg',],key:3},
 
                            {question:"LEQUE ",options:['LEQUE.jpg','LOCOMOTIVA.jpg','LIVRO.jpg','LEAO.jpg'],key:0},
 
