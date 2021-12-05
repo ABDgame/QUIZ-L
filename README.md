@@ -1,3 +1,3 @@
 # QUIZ-SILABARIO-L
 
-https://tenhojogos.github.io/QUIZ-L/app.html
+https://mqjogos.github.io/QUIZ-L/app.html
