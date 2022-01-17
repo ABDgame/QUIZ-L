@@ -75,7 +75,7 @@ const myApp=[
                            {question:"LE",options:['LIVROS.jpg','LESMA.jpg','LOUCA.jpg','LIMPEZA.jpg'],key:1},
 
 
-                           {question:"LU",  options:['LIMONADA.jpg','LEITE.jpg','LUNETA.jpg', 'LAPIS.jpg'],key:2},                     
+                           {question:"LU",  options:['LIMONADA.jpg','LEITE.jpg','LUNETA.jpg','LAPIS.jpg'],key:2},                     
 
                            {question:"LI",options:['LEGO.jpg','LIXEIRA.jpg','LANCHE.jpg', 'LEQUE.jpg'],key:1},
 
@@ -90,7 +90,7 @@ const myApp=[
 
                            {question:"LO",options:['LOUSA.jpg','LARANJA.jpg','LEAO.jpg','LIMAO.jpg'],key:0},
 
-                           {question:"LOBO",options: ['LUPA.jpg', 'LIQUIDIFICADOR.jpg','LEAO.jpg','LOBO.jpg'],key:3},
+                           {question:"LO",options: ['LUPA.jpg', 'LIQUIDIFICADOR.jpg','LEAO.jpg','LOBO.jpg'],key:3},
 
 
                            {question:"LI",options:['LIMOSINE.jpg','LENHA.jpg','LOCOMOTIVA.jpg','LENTO.jpg'],key:0},
@@ -102,7 +102,7 @@ const myApp=[
                            {question:"LO",options:['LENTO.jpg','LAGO.jpg','LOJA.jpg' ,'LAGARTIXA.jpg'],key:2},
 
 
-                           {question:"LO",options:['LABIRINTO.jpg','LUVAS.jpg','LIMPEZA.jpg', 'LOBISOMEM.jpg'],key:3},
+                           {question:"LE",options:['LABIRINTO.jpg','LUVAS.jpg','LIMPEZA.jpg','LENHADOR.jpg'],key:3},
 
                            {question:"LU",options:['LOUSA.jpg','LOBO.jpg','LUA.jpg','LIMPEZA.jpg'],key:2},
 
@@ -223,7 +223,7 @@ const myApp=[
                            {question:"LOJA",options:['LENTO.jpg','LAGO.jpg','LOJA.jpg' ,'LAGARTIXA.jpg'],key:2},
 
 
-                           {question:"LOBISOMEM",options:['LABIRINTO.jpg','LARANJA.jpg','LIMPEZA.jpg', 'LOBISOMEM.jpg'],key:3},
+                           {question:"LENHADOR",options:['LABIRINTO.jpg','LARANJA.jpg','LIMPEZA.jpg', 'LENHADOR.jpg'],key:3},
 
                            {question:"LUA",options:['LOUSA.jpg','LOBO.jpg','LUA.jpg','LIMPEZA.jpg'],key:2},
 
