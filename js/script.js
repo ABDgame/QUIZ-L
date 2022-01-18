@@ -138,7 +138,6 @@ const myApp=[
                            
                            {question:"LÂMPADA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LAGO.jpg','LAMPADA.jpg'],key:3},
 
-
                            {question:"LANTERNA",options:['LAGARTIXA.jpg','LIMPEZA.jpg','LOUSA.jpg' ,'LANTERNA.jpg'],key:3},
 
                            {question:"LAREIRA",options:['LEQUE.jpg','LESMA.jpg','LAREIRA.jpg','LEITE.jpg'],key:2},
