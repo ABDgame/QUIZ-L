@@ -12,8 +12,6 @@ const myApp=[
                      
                            {question:"LE",options:['LIMAO.jpg','LATA.jpg','LEAO.jpg','LAPIS.jpg'],key:2},
                  
-                 
-                           
                            {question:"KA",options:['KARATE.jpg','LIVROS.jpg','LANTERNA.jpg','LUVAS.jpg'],key:0},
                  
                            {question:"KI",options:['LANCHE.jpg','KIMONO.jpg','LANTERNA.jpg','LUVA.jpg'],key:1},
@@ -34,19 +32,15 @@ const myApp=[
                  
                            {question:"KE",options:['KETCHUP.jpg','LIVROS.jpg','LANTERNA.jpg','LUVAS.jpg'],key:0},
                  
-                           
-                 
                            {question:"LA",options:['LOCOMOTIVA.jpg','LIQUIDIFICADOR.jpg','LOUSA.jpg','LAMPADA.jpg'],key:3},
 
-
-                           {question:"LA",options:['LONTRA.jpg','LIMPEZA.jpg','LOUSA.jpg' ,'LANTERNA.jpg'],key:3},
+                           {question:"LA",options:['LONTRA.jpg','LIMPEZA.jpg','LOUSA.jpg','LANTERNA.jpg'],key:3},
 
                            {question:"LA",options:['LEQUE.jpg','LESMA.jpg','LAREIRA.jpg','LEITE.jpg'],key:2},
 
                            {question:"LA",options:['LOBO.jpg' ,'LARANJA.jpg','LIXO.jpg','LUSTRE.jpg'],key:1},
                            
                            {question:"LA",options:['LAGOSTA.jpg','LUTADOR.jpg','LIXO.jpg','LUVAS.jpg'],key:0},
-
 
                            {question:"LA",options:['LEITE.jpg','LUNETAjpg','LIMPEZA.jpg','LAGO.jpg'],key:3},
                            
@@ -56,7 +50,6 @@ const myApp=[
 
                            {question:"LI",options:['LAGARTA.jpg','LARAJA.jpg','LIMPEZA.jpg','LOUSA.jpg'],key:2},
 
-
                            {question:"LA",options:['LEAO.jpg','LAGARTIXA.jpg','LIVROS.jpg','LEITURA.jpg'],key:1},
 
                            {question:"LE",options:['LUA.jpg','LUTADOR.jpg','LEITE.jpg','LIXO.jpg'],key:2},
@@ -64,7 +57,6 @@ const myApp=[
                            {question:"LE",options:['LABIOS.jpg','LAPIS.jpg','LOUSA.jpg' ,'LEOPARDO.jpg',],key:3},
 
                            {question:"LE ",options:['LEQUE.jpg','LOCOMOTIVA.jpg','LIVROS.jpg','LIMAO.jpg'],key:0},
-
 
                            {question:"LE",options:['LUA.jpg','LARANJA.jpg','LEOA.jpg','LAVAR.jpg',],key:2},
 
@@ -74,7 +66,6 @@ const myApp=[
 
                            {question:"LE",options:['LIVROS.jpg','LESMA.jpg','LOUCA.jpg','LIMPEZA.jpg'],key:1},
 
-
                            {question:"LU",  options:['LIMONADA.jpg','LEITE.jpg','LUNETA.jpg','LAPIS.jpg'],key:2},                     
 
                            {question:"LI",options:['LEGO.jpg','LIXEIRA.jpg','LANCHE.jpg', 'LEQUE.jpg'],key:1},
@@ -82,7 +73,6 @@ const myApp=[
                            {question:"LI",options:['LIMONADA.jpg','LANCHE.jpg','LUMINARIA.jpg','LABIRINTO.jpg'],key:0},
 
                            {question:"LI",options:['LAMPADA.jpg','LENTO.jpg','LEAO.jpg','LIQUIDIFICADOR.jpg'],key:3},
-
 
                            {question:"LI",options:['LUA.jpg','LIVROS.jpg','LUNETA.jpg','LANCHE.jpg'],key:1},
                              
@@ -92,7 +82,6 @@ const myApp=[
 
                            {question:"LO",options: ['LUPA.jpg', 'LIQUIDIFICADOR.jpg','LEAO.jpg','LOBO.jpg'],key:3},
 
-
                            {question:"LI",options:['LIMOSINE.jpg','LENHA.jpg','LOCOMOTIVA.jpg','LENTO.jpg'],key:0},
 
                            {question:"LO",options:['LIMAO.jpg','LONTRA.jpg','LARANJA.jpg','LANTERNA.jpg'],key:1},
@@ -100,7 +89,6 @@ const myApp=[
                            {question:"LO",options:['LIMAO.jpg','LUPA.jpg','LUVAS.jpg','LOUCA.jpg'],key:3},
 
                            {question:"LO",options:['LENTO.jpg','LAGO.jpg','LOJA.jpg' ,'LAGARTIXA.jpg'],key:2},
-
 
                            {question:"LE",options:['LABIRINTO.jpg','LUVAS.jpg','LIMPEZA.jpg','LENHADOR.jpg'],key:3},
 
@@ -110,11 +98,9 @@ const myApp=[
 
                            {question:"LU",options:['LEGO.jpg','LUTA.jpg','LANCHE.jpg','LENCO.jpg' ],key:1},
 
-
                            {question:"LU",options:['LENCO.jpg','LOBO.jpg','LUVAS.jpg','LOCOMOTIVA.jpg'],key:2},
                            
                            {question:"LA",options:['LAVANDERIA.jpg','LEITE.jpg','LIXO.jpg''LENTO.jpg'],key:0},
-
 
                            {question:"LU",options:['LIXO.jpg' ,'LATA.jpg','LAMA.jpg', 'LULA.jpg'],key:3},
 
@@ -146,7 +132,6 @@ const myApp=[
                            
                            {question:"LAGOSTA",options:['LAGOSTA.jpg','LUTADOR.jpg','LANTERNA.jpg','LUVAS.jpg'],key:0},
 
-
                            {question:"LAGO",options:['LEITE.jpg','LABIRINTO.jpg','LAPIS.jpg','LAGO.jpg'],key:3},
                            
                            {question:"LASANHA",options:['LOUSA.jpg','LASANHA.jpg','LOBO.jpg','LIMAO.jpg',],key:1},
@@ -174,9 +159,7 @@ const myApp=[
                            {question:"KOALAS",options:['LANCHE.jpg','LIVROS.jpg','KOALAS.jpg','LUVAS.jpg'],key:2},
                  
                            {question:"KETCHUP",options:['KETCHUP.jpg','LIVROS.jpg','LANTERNA.jpg','LUVAS.jpg'],key:0},
-                 
-                 
-                  
+                                
                            {question:"LAGARTIXA",options:['LEAO.jpg','LAGARTIXA.jpg','LIVRO.jpg','LEITURA.jpg'],key:1},
 
                            {question:"LEITE",options:['LEGO.jpg','LEOPARDO.jpg','LEITE.jpg','LIXO.jpg'],key:2},
@@ -184,7 +167,6 @@ const myApp=[
                            {question:"LEOPARDO",options:['LABIOS.jpg','LEGUMES.jpg','LEQUE.jpg','LEOPARDO.jpg',],key:3},
 
                            {question:"LEQUE ",options:['LEQUE.jpg','LOCOMOTIVA.jpg','LIVRO.jpg','LEAO.jpg'],key:0},
-
 
                            {question:"LEOA",options:['LUA.jpg','LARANJA.jpg','LEOA.jpg','LAVAR.jpg',],key:2},
 
@@ -194,7 +176,6 @@ const myApp=[
 
                            {question:"LESMA",options:['LIVRO.jpg','LESMA.jpg','LOUCA.jpg','LIMPEZA.jpg'],key:1},
 
-
                            {question:"LUNETA",  options:['LIMONADA.jpg','LEITE.jpg','LUNETA.jpg', 'LAPIS.jpg'],key:2},                     
 
                            {question:"LIXEIRA",options:['LEGO.jpg','LIXEIRA.jpg','LANCHE.jpg', 'LIQUIDIFICADOR.jpg'],key:1},
@@ -202,7 +183,6 @@ const myApp=[
                            {question:"LIMONADA",options:['LIMONADA.jpg','LANCHE.jpg','LUMINARIA.jpg','LIXO.jpg'],key:0},
 
                            {question:"LIQUIDIFICADOR",options:['LAMPADA.jpg','LENTO.jpg','LEAO.jpg','LIQUIDIFICADOR.jpg'],key:3},
-
 
                            {question:"LIVRO",options:['LUA.jpg','LIVRO.jpg','LUNETA.jpg','LANCHE.jpg'],key:1},
                              
@@ -212,7 +192,6 @@ const myApp=[
 
                            {question:"LOBO",options: ['LUPA.jpg', 'LOUSA.jpg','LEAO.jpg','LOBO.jpg'],key:3},
 
-
                            {question:"LIMOSINE",options:['LIMOSINE.jpg','LENHA.jpg','LOCOMOTIVA.jpg','LENTO.jpg'],key:0},
 
                            {question:"LONTRA",options:['LOUCA.jpg','LONTRA.jpg','LARANJA.jpg','LANTERNA.jpg'],key:1},
@@ -221,15 +200,13 @@ const myApp=[
 
                            {question:"LOJA",options:['LENTO.jpg','LAGO.jpg','LOJA.jpg' ,'LAGARTIXA.jpg'],key:2},
 
-
-                           {question:"LENHADOR",options:['LABIRINTO.jpg','LARANJA.jpg','LIMPEZA.jpg', 'LENHADOR.jpg'],key:3},
+                           {question:"LENHADOR",options:['LABIRINTO.jpg','LARANJA.jpg','LIMPEZA.jpg','LENHADOR.jpg'],key:3},
 
                            {question:"LUA",options:['LOUSA.jpg','LOBO.jpg','LUA.jpg','LIMPEZA.jpg'],key:2},
 
                            {question:"LUNETA",options:['LUNETA.jpg','LIMPEZA.jpg','LOBO.jpg','LEGO.jpg'],key:0},
 
                            {question:"LUTA",options:['LEGO.jpg','LUTA.jpg','LANCHE.jpg','LENCO.jpg' ],key:1},
-
 
                            {question:"LUVA",options:['LENCO.jpg','LOBO.jpg','LUVA.jpg','LOCOMOTIVA.jpg'],key:2},
                            
@@ -240,8 +217,7 @@ const myApp=[
                            {question:"LOCOMOTIVA",options:['LAMA.jpg','LOCOMOTIVA.jpg','LENHA.jpg','LUSTRE.jpg'],key:1},
 
                            {question:"LUSTRE",options:['LARANJA.jpg','LUSTRE.jpg','LIMPEZA.jpg','LUMINARIA.jpg'],key:0}
-
-                              
+                     
 
                         ]
               }
